@@ -1,0 +1,9 @@
+.retrybtn {
+  border: 0;
+  background-color: #4656a1;
+  border-radius: 5px;
+  padding: 4px 10px;
+  cursor: pointer;
+  font-size: 11px;
+  color: #fff;
+}

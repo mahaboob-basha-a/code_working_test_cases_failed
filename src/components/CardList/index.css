@@ -1,0 +1,7 @@
+.card-list {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  color: #000;
+  gap: 5px;
+}

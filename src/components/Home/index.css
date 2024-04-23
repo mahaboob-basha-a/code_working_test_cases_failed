@@ -1,0 +1,11 @@
+.home-page {
+  height: 100vh;
+  width: 100vw;
+}
+
+.ul-course {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  gap: 20px;
+}
